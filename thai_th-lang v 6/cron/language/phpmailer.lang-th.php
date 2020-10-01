@@ -14,9 +14,9 @@
  * English Version
  */
 $PHPMAILER_LANG = array();
-$PHPMAILER_LANG["provide_address"] = 'คุณต้องระบุอย่างน้อยหนึ่งรายการ ' .
-                                     'ที่อยู่อีเมลของผู้รับ.';
-$PHPMAILER_LANG["mailer_not_supported"] = ' ไม่รองรับเมล.';
+$PHPMAILER_LANG["provide_address"] = 'คุณต้องระบุอย่างน้อยหนึ่งรายการก่อน ' .
+                                     'ที่อยู่อีเมลของผู้รับเมล์.';
+$PHPMAILER_LANG["mailer_not_supported"] = ' ไม่รองรับเมล์นี้';
 $PHPMAILER_LANG["execute"] = 'ไม่สามารถดำเนินการ: ';
 $PHPMAILER_LANG["instantiate"] = 'ไม่สามารถสร้างฟังก์ชันจดหมายได้.';
 $PHPMAILER_LANG["authenticate"] = 'ข้อผิดพลาด SMTP: ไม่สามารถตรวจสอบความถูกต้อง.';
